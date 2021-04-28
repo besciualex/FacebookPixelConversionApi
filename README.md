@@ -5,6 +5,9 @@ This class allows someone to quickly send Facebook Events for the new Pixel Conv
 ## Description
 
 This class uses only three events from whole Facebook Event List as I only required those three. Feel free to expand it as you like.
+* ViewContent - should be called on Landing pages or important pages
+* Lead - should be used on LEAD conversion
+* Contact - should be used on Contact page/scripts
 
 ## Getting Started
 
