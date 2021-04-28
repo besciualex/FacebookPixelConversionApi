@@ -1,6 +1,6 @@
 # Simple FacebookPixelConversionApi Class
 
-This class allows someone to quickly send Facebook Events for the new Pixel Conversion API. I uploaded it here so others could use it fast, without bothering to read documentation.
+This class allows someone to quickly send Facebook Events for the new Pixel Conversion API. I uploaded it here so others could use it fast, without bothering to read documentation. Facebook API used at the moment of initial commit is v10 (stable on April 2021).
 
 ## Description
 
